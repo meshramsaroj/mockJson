@@ -9,8 +9,30 @@
 	"profile": {
 		"name": "typicode"
 	},
-	"cart": [],
-	"wishlist": [],
+	"cart": [
+		{
+			"product": {
+				"id": 1,
+				"product_id": 1,
+				"name": "Cotton Readymade Salwar Suit",
+				"type": "Ethnic Wear",
+				"image": "https://images-na.ssl-images-amazon.com/images/I/71h01LEjOOL._UL1440_.jpg",
+				"price": 600,
+				"fabric": "Cotton",
+				"tips": "Home Wash or Hand Wash or Machine Wash",
+				"quantity": 4
+			},
+			"id": 3
+		}
+	],
+	"wishlist": [
+		{
+			"id": 1
+		},
+		{
+			"id": 3
+		}
+	],
 	"products": [
 		{
 			"id": 1,
